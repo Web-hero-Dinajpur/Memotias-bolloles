@@ -4,11 +4,13 @@
     border-radius: 8px;
 }
 .Bottles img{
-    width: 400px;
+    width: 300px;
+    border-radius: 10px;
 }
 .Bottles{
     width: 300px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
+    padding: 10px;
 }
